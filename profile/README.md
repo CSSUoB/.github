@@ -1,4 +1,4 @@
-Welcome to the official GitHub organisation of the **University of Birmingham Computer Science Society (CSS)**.
+Welcome to the official GitHub organisation of the **University of Birmingham Computer Science Society (CSS)**!
 
 This space is dedicated to building and maintaining
 the software that powers the society.
